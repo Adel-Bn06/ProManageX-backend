@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.Http.HttpResults;
+global using Microsoft.AspNetCore.Mvc;
+global using SmartTasks.Data;
+global using SmartTasks.Models;
+global using SmartTasks.DTOs;
+global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using BCrypt.Net;
+global using SmartTasks.Services.Interfaces;
+global using SmartTasks.Services.Implementations;
